@@ -99,6 +99,8 @@ new KeaClient({
 
 ## Development
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the branch/PR process, commit message conventions, and a checklist for adding new commands.
+
 ```sh
 npm test              # vitest run
 npm run test:ui        # vitest --ui
