@@ -1,6 +1,6 @@
 {
   "name": "@sourceregistry/kea-client",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Typed Node.js client for the Kea DHCP Control Agent HTTP API.",
   "type": "module",
   "main": "./dist/index.cjs.js",
